@@ -4,3 +4,6 @@
 # 환경
 - Oracle Database19c
 - SQL Developer
+
+-mysql
+-sequral pro
